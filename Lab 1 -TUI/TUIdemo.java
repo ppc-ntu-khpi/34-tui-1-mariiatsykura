@@ -1,4 +1,4 @@
-package com.mybank.tui;
+package domain;
 
 import jexer.TAction;
 import jexer.TApplication;
